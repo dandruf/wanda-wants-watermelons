@@ -1,9 +1,9 @@
 # Wanda Wants Watermelons: ??
-Oh, hello! It appears that you've decided to open up my CS50 Final Project. Maybe you're wondering what it is. Maybe you aren't. If you're in the latter group of people, that's alright, no harm done. Just move on to the next one. Hope to see you soon!
+Oh, hello! It appears that you've decided to open up my CS50 Final Project. Maybe you're wondering what it is. Maybe you aren't. If you're in the latter group of people, that's alright, no harm done. Just move on to the next one. Hope to see you again soon!
 
 If you're still reading, I assume that you'd like to know more, either because you've been forced to grade my project, or because you're a creepy stalker, or maybe—hopefully—because you actually *want* to see what I've done! 
 
-Wanda Wants Watermelons is a game written in Lua with LÖVE. [LÖVE](love2d.org) is a framework for making 2D games in the programming language [Lua](lua.org). LÖVE is a great place to start making games because the program is as complex as the programmer makes it (you can make a simple, functional game in 200 lines), and there's a lot of helpful documentation. 
+Wanda Wants Watermelons is a game written in Lua with LÖVE. [LÖVE](https://love2d.org) is a framework for making 2D games in the programming language [Lua](https://lua.org). LÖVE is a great place to start making games because the program is as complex as the programmer makes it (you can make a simple, functional game in 200 lines), and there's a lot of helpful documentation. 
 
 My game is pretty simple: you, Wanda, want watermelons. Don't argue with me; you want all the melons: bananamelons, pearmelons, applemelons. After you express your desire to have watermelons, you'll be sent to a minigame to collect said fruits. Because we love melons. 
 
